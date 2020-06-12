@@ -16,5 +16,5 @@ The automation tests are in the spec files:
 * Clone https://github.com/JarvisPlanet/covid-india-test and https://github.com/JarvisPlanet/core-library in the same workspace
 * In terminal window go to covid-india-test path and run the below command
 
-bundle install (only for first time to install the gems)
-bundle exec rake test
+	* bundle install (only for first time to install the gems)
+	* bundle exec rake test
